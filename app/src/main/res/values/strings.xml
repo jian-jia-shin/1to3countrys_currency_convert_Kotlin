@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Currency_converter_countrys_useKotlin</string>
+    <string-array name="choose_countrys">
+        <item>TWD(台幣)</item>
+        <item>USD(美金)</item>
+        <item>JPY(日幣)</item>
+        <item>KRW(韓元)</item>
+        <item>HKD(港幣)</item>
+        <item>CNY(人民幣)</item>
+        <item>CNH(離岸人民幣)</item>
+        <item>SGD(新加坡幣)</item>
+        <item>THB(泰銖)</item>
+        <item>MYR(馬來幣)</item>
+        <item>VND(越南盾)</item>
+        <item>MOP(澳門幣)</item>
+        <item>PHP(菲律賓比索)</item>
+        <item>INR(印度盧比)</item>
+        <item>IDR(印尼盾)</item>
+        <item>AUD(澳幣)</item>
+        <item>EUR(歐元)</item>
+        <item>GBP(英鎊)</item>
+        <item>CAD(加拿大幣)</item>
+    </string-array>
+</resources>
